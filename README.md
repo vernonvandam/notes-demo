@@ -13,3 +13,6 @@ Using:
 NextJs <br />
 tailwinds <br />
 shadcn-ui <br />
+Clerk - Authentication
+Edge Store - Online image storage
+Convex - DB 
