@@ -13,3 +13,5 @@ Using:
 NextJs <br />
 tailwinds <br />
 shadcn-ui <br />
+Clerk - Authentication
+Convex - for db and backend
